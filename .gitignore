@@ -137,4 +137,6 @@ vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 
 .codemap/
-config.bat
+
+.env
+.env.*
